@@ -17,3 +17,14 @@
     top: 52%;
     left: 37%;
 }
+.btn{
+    border: 3px #796d4b solid;
+    background: #969696;
+    color: black;
+    text-decoration: none;
+    padding: .7em 3em;
+    border: none;
+    border-radius: 11px;
+    cursor: pointer;
+    opacity: 1;
+}
